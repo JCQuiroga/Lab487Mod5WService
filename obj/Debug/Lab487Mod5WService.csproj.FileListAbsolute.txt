@@ -1,0 +1,10 @@
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod5WService\Lab487Mod5WService\bin\Lab487Mod5WService.dll.config
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod5WService\Lab487Mod5WService\bin\Lab487Mod5WService.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod5WService\Lab487Mod5WService\bin\Lab487Mod5WService.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod5WService\Lab487Mod5WService\bin\EntityFramework.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod5WService\Lab487Mod5WService\bin\EntityFramework.SqlServer.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod5WService\Lab487Mod5WService\bin\EntityFramework.xml
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod5WService\Lab487Mod5WService\bin\EntityFramework.SqlServer.xml
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod5WService\Lab487Mod5WService\obj\Debug\Lab487Mod5WService.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod5WService\Lab487Mod5WService\obj\Debug\Lab487Mod5WService.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod5WService\Lab487Mod5WService\obj\Debug\Lab487Mod5WService.pdb

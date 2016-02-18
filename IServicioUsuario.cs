@@ -5,12 +5,12 @@ using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
+using Lab487Mod5WService.Modelo.DTO;
 
 namespace Lab487Mod5WService
 {
-    // NOTE: You can use the "Rename" command on the "Refactor" menu to change the interface name "IService1" in both code and config file together.
     [ServiceContract]
-    public interface IService1
+    public interface IServicioUsuario
     {
 
         [OperationContract]
@@ -19,9 +19,15 @@ namespace Lab487Mod5WService
         [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);
 
-        // TODO: Add your service operations here
-    }
+        [OperationContract]
+        UsuarioDTO GetUsuario(int id);
 
+        [OperationContract]
+        List<UsuarioDTO> GetAllUsuario();
+
+        [OperationContract]
+        void AddUsuario(UsuarioDTO pro);
+    }
 
     // Use a data contract as illustrated in the sample below to add composite types to service operations.
     [DataContract]
